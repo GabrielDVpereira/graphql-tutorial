@@ -1,0 +1,9 @@
+{
+  "name": "Graphql-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^15.2.0"
+  }
+}
